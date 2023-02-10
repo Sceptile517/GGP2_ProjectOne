@@ -15,5 +15,8 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Obj_bullet","order":1,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Spr_bullet","order":1,"path":"sprites/Spr_bullet/Spr_bullet.yy",},
+  ],
 }

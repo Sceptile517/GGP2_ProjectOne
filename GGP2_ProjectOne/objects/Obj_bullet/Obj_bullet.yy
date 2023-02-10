@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "Obj_bullet",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_player",
-    "path": "sprites/Spr_player/Spr_player.yy",
+    "name": "Spr_bullet",
+    "path": "sprites/Spr_bullet/Spr_bullet.yy",
   },
   "spriteMaskId": null,
   "visible": true,
