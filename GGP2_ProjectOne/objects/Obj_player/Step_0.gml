@@ -12,3 +12,6 @@ if keyboard_check_pressed(vk_space)
 	newbullet.hspd = bullethspd;
 	newbullet.vspd = bulletvspd;
 }
+
+//x = Obj_player.x + x_mod;
+//y = Obj_player.y + y_mod;
