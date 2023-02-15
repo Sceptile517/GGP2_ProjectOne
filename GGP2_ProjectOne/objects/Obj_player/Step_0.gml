@@ -15,3 +15,27 @@ if keyboard_check_pressed(vk_space)
 
 //x = Obj_player.x + x_mod;
 //y = Obj_player.y + y_mod;
+
+if playerFace
+{
+	if playerUp = true
+	{
+		bulletvspd = -bulletspd;
+		bullethspd = 0;
+	}
+		if playerDown = true
+		{
+			bulletvspd = +bulletspd;
+			bulletspd = 0;
+		}
+			if playerLeft = true
+			{
+				bulletvspd = 0;
+				bullethspd = -bulletspd;
+			}
+				if playerRight = true
+				{
+					bulletvspd = 0;
+					bullethspd = +bulletspd;
+				}
+}
