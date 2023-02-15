@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_bullet",
-    "path": "sprites/Spr_bullet/Spr_bullet.yy",
+    "name": "Spr_Missile",
+    "path": "sprites/Spr_Missile/Spr_Missile.yy",
   },
   "spriteMaskId": null,
   "visible": true,
