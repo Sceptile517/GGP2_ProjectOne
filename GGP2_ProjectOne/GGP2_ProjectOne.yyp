@@ -32,6 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"Spr_Enemy","path":"sprites/Spr_Enemy/Spr_Enemy.yy",},"order":0,},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"order":0,},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":0,},
     {"id":{"name":"Spr_CarOne","path":"sprites/Spr_CarOne/Spr_CarOne.yy",},"order":0,},
@@ -39,6 +40,7 @@
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"Spr_Dirt","path":"sprites/Spr_Dirt/Spr_Dirt.yy",},"order":0,},
     {"id":{"name":"Spr_ShootGun","path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},"order":0,},
+    {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},"order":0,},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},"order":0,},
     {"id":{"name":"Obje_ShootGun","path":"objects/Obje_ShootGun/Obje_ShootGun.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

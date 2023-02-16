@@ -16,11 +16,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Spr_Enemy","order":6,"path":"sprites/Spr_Enemy/Spr_Enemy.yy",},
     {"name":"Obj_bullet","order":1,"path":"objects/Obj_bullet/Obj_bullet.yy",},
     {"name":"Spr_CarOne","order":2,"path":"sprites/Spr_CarOne/Spr_CarOne.yy",},
     {"name":"Spr_bullet","order":1,"path":"sprites/Spr_bullet/Spr_bullet.yy",},
     {"name":"Spr_Dirt","order":4,"path":"sprites/Spr_Dirt/Spr_Dirt.yy",},
     {"name":"Spr_ShootGun","order":5,"path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},
+    {"name":"Obj_Enemy","order":3,"path":"objects/Obj_Enemy/Obj_Enemy.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
     {"name":"Obje_ShootGun","order":2,"path":"objects/Obje_ShootGun/Obje_ShootGun.yy",},
   ],
