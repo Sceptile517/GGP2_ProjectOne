@@ -38,7 +38,9 @@
     {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},"order":0,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"Spr_Dirt","path":"sprites/Spr_Dirt/Spr_Dirt.yy",},"order":0,},
+    {"id":{"name":"Spr_ShootGun","path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},"order":0,},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},"order":0,},
+    {"id":{"name":"Obje_ShootGun","path":"objects/Obje_ShootGun/Obje_ShootGun.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
