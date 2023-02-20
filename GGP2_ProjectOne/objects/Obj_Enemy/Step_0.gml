@@ -70,7 +70,7 @@ if instance_exists(Obj_player)
 		{
 			if Obj_player.y + randomTargetY > y
 			{
-				currentY += mode1spd + random_range(0,1) // speed of the enemy of positions
+				currentY += mode1spd + random_range(0.1,0.5) // speed of the enemy of positions
 			}
 		
 			if Obj_player.y + randomTargetY < y

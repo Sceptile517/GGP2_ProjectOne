@@ -1,5 +1,5 @@
-image_xscale = 4.5
-image_yscale = 4.5
+image_xscale = 1.5
+image_yscale = 1.5
 
 xStart = x;
 yStart = y;
@@ -12,7 +12,7 @@ startEnd = false;
 mode = 0;
 
 mode0spd = random_range(0.005,0.02);
-mode1spd = random_range(1,4);
+mode1spd = random_range(0,5);
 
 firstTimeModeSwitch = false;
 

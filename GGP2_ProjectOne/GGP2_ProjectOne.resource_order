@@ -24,6 +24,6 @@
     {"name":"Spr_ShootGun","order":5,"path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},
     {"name":"Obj_Enemy","order":3,"path":"objects/Obj_Enemy/Obj_Enemy.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
-    {"name":"Obje_ShootGun","order":2,"path":"objects/Obje_ShootGun/Obje_ShootGun.yy",},
+    {"name":"Obj_ShootGun","order":2,"path":"objects/Obj_ShootGun/Obj_ShootGun.yy",},
   ],
 }
