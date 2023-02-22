@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Enemy",
-    "path": "sprites/Spr_Enemy/Spr_Enemy.yy",
+    "name": "EnemyCar",
+    "path": "sprites/EnemyCar/EnemyCar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

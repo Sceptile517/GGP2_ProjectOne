@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_ShootGun",
-    "path": "sprites/Spr_ShootGun/Spr_ShootGun.yy",
+    "name": "Guns1",
+    "path": "sprites/Guns1/Guns1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
