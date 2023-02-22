@@ -20,7 +20,8 @@
 
 // Bullet Spawn Var
 
-gunOffsetX = -12;
+gunOffsetX = -
+12;
 gunOffsetY = -7;
 //gunOffsetx = +11;
 
