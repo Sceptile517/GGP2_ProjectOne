@@ -1,5 +1,5 @@
-image_xscale = 1.5
-image_yscale = 1.5
+image_xscale = 4
+image_yscale = 4
 
 xStart = x;
 yStart = y;
