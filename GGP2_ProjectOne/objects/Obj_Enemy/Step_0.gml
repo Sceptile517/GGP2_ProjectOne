@@ -115,13 +115,13 @@ if firstTimeModeSwitch
 		
 		firstTimeModeSwitch = false;
 	
-//if collision_circle(x,y,60,Obj_Arrow,false, true)
-//	{
-//		currentHp -= 1.5
-//		var dArrow = instance_nearest(x,y,Obj_Arrow)
+if collision_circle(x,y,60,Obj_bullet,false, true)
+	{
+		currentHp -= 1.5
+		var dbullet = instance_nearest(x,y,Obj_bullet)
 		
-//		instance_destroy(dArrow)
-//	}	
+		instance_destroy(dbullet)
+	}	
 	
 	if currentHp <= 0
 		{
