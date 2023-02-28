@@ -36,6 +36,7 @@
     {"name":"Spr_Dirt","order":4,"path":"sprites/Spr_Dirt/Spr_Dirt.yy",},
     {"name":"Obj_Controls","order":8,"path":"objects/Obj_Controls/Obj_Controls.yy",},
     {"name":"mud","order":6,"path":"sounds/mud/mud.yy",},
+    {"name":"init_health","order":1,"path":"scripts/init_health/init_health.yy",},
     {"name":"Rm_Menu","order":1,"path":"rooms/Rm_Menu/Rm_Menu.yy",},
     {"name":"Spr_ShootGun","order":5,"path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},
     {"name":"engine","order":1,"path":"sounds/engine/engine.yy",},
