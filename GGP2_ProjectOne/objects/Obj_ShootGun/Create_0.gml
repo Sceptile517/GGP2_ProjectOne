@@ -28,3 +28,7 @@ gunDirection = point_direction(0,0, gunOffsetX, gunOffsetY);
 //gunDirection = point_direction(0, 0, gunOffsetx, gunOffsetY)
 gunLength = point_distance(0,0, gunOffsetX, gunOffsetY);
 //gunLength = point_distance(0,0, gunOffsetx, gunOffsetY);
+
+xy_mod = 64;
+y_mod = 1;
+x_mod = 1;
