@@ -137,7 +137,7 @@ if !hasHit
 	hasHit = true
 	//obj_Hero.currentHp -= 3
 	
-	instance_exists(obj_Hero)
+	instance_exists(Obj_player)
 		if collision_circle(x,y,32,Obj_player, false, true)
 		{
 			Obj_player.currentHp -= 1.5 // hero health take away
