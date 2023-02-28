@@ -72,6 +72,10 @@
     {"name":"inst_62EA8571","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_77186554","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_285B972","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_7B76F597","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_509302C4","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_7ADDF347","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_4E07337C","path":"rooms/Rm_Arena/Rm_Arena.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -141,6 +145,10 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_62EA8571","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Corner","path":"objects/Obj_Corner/Obj_Corner.yy",},"properties":[],"rotation":89.88341,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_77186554","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Corner","path":"objects/Obj_Corner/Obj_Corner.yy",},"properties":[],"rotation":-90.69792,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_285B972","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Corner","path":"objects/Obj_Corner/Obj_Corner.yy",},"properties":[],"rotation":-180.4148,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":768.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B76F597","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":64.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_509302C4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},"properties":[],"rotation":-91.902664,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7ADDF347","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},"properties":[],"rotation":-178.60928,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E07337C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},"properties":[],"rotation":89.839264,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":416.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_764BB65A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":42.6875,"scaleY":24.0,"spriteId":{"name":"Spr_Dirt","path":"sprites/Spr_Dirt/Spr_Dirt.yy",},"x":683.0,"y":384.0,},
