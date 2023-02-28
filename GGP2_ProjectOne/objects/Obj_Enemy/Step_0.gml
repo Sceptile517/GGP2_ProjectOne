@@ -195,3 +195,21 @@ if mode = 2
 		mode = 1
 	}
 }
+
+if y <= 46{ // Y-axis wall up
+	y = 46
+}
+if y >= 720 // Y-axis wall down
+{
+	y = 720
+}
+
+if x <= 72 // X-axis wall left
+{
+	x = 72
+}
+
+if x >= 1271 // x-axis wall right
+{
+	x = 1271
+}
