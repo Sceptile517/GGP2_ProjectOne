@@ -19,7 +19,8 @@
 //playerFace = true
 
 // Bullet Spawn Var
-
+fireCounter = 0;
+fireRate = 25;
 gunOffsetX = -25;
 gunOffsetY = -7;
 //gunOffsetx = +11;
@@ -29,6 +30,3 @@ gunDirection = point_direction(0,0, gunOffsetX, gunOffsetY);
 gunLength = point_distance(0,0, gunOffsetX, gunOffsetY);
 //gunLength = point_distance(0,0, gunOffsetx, gunOffsetY);
 
-xy_mod = 64;
-y_mod = 1;
-x_mod = 1;

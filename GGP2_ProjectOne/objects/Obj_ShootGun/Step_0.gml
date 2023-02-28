@@ -28,4 +28,6 @@ if collision_circle(x,y,20,Obj_Enemy,false,true)
 					instance_destroy(Obj_Enemy);
 				}
 		}
+		
 }
+fireCounter = fireCounter + 1
