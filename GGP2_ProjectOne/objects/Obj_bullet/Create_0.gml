@@ -2,5 +2,5 @@
 //hspd = 5;
 //vspd = 5;
 
-speed = 20;
+speed = 5;
 fireCounter = 0

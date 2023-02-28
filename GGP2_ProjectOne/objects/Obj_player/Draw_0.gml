@@ -1,7 +1,7 @@
 switch (weapon)
 {
 	case 0:
-		gun_spr = Spr_ShootGun
+		gun_spr = Guns1
 		break;
 	case 1:
 		gun_spr = Spr_minigun

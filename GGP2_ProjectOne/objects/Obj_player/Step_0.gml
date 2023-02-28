@@ -6,7 +6,7 @@ else speed = 0;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
-audio_play_sound(truck, 0, false)
+//audio_play_sound(truck, 0, false)
 
 //with instance_create_layer(x,y,Arena,Obj_ShootGun) {
 //    image_angle = other.direction;

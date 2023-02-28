@@ -60,7 +60,6 @@
     {"id":{"name":"mud","path":"sounds/mud/mud.yy",},"order":6,},
     {"id":{"name":"init_health","path":"scripts/init_health/init_health.yy",},"order":1,},
     {"id":{"name":"Rm_Menu","path":"rooms/Rm_Menu/Rm_Menu.yy",},"order":1,},
-    {"id":{"name":"Spr_ShootGun","path":"sprites/Spr_ShootGun/Spr_ShootGun.yy",},"order":5,},
     {"id":{"name":"truck","path":"sounds/truck/truck.yy",},"order":0,},
     {"id":{"name":"engine","path":"sounds/engine/engine.yy",},"order":1,},
     {"id":{"name":"Obj_playButton","path":"objects/Obj_playButton/Obj_playButton.yy",},"order":5,},
@@ -68,6 +67,7 @@
     {"id":{"name":"Obj_helpButton","path":"objects/Obj_helpButton/Obj_helpButton.yy",},"order":6,},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},"order":3,},
     {"id":{"name":"titans","path":"sounds/titans/titans.yy",},"order":4,},
+    {"id":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},"order":2,},
     {"id":{"name":"Obj_ShootGun","path":"objects/Obj_ShootGun/Obj_ShootGun.yy",},"order":2,},
     {"id":{"name":"RightGun1","path":"sprites/RightGun1/RightGun1.yy",},"order":11,},
     {"id":{"name":"Spr_51mm","path":"sprites/Spr_51mm/Spr_51mm.yy",},"order":17,},
@@ -76,6 +76,7 @@
     {"id":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"roomId":{"name":"Rm_Menu","path":"rooms/Rm_Menu/Rm_Menu.yy",},},
     {"roomId":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
   ],
