@@ -117,10 +117,23 @@ if firstTimeModeSwitch
 	
 if collision_circle(x,y,60,Obj_bullet,false, true)
 	{
-		currentHp -= 1.5
+		currentHp -= 2
 		var dbullet = instance_nearest(x,y,Obj_bullet)
 		
 		instance_destroy(dbullet)
+	}	
+	
+	if currentHp <= 0
+		{
+			instance_destroy(self)	
+		}
+		
+if collision_circle(x,y,60,Obj_51mm,false, true)
+	{
+		currentHp -= .5
+		var dBullet = instance_nearest(x,y,Obj_51mm)
+		
+		instance_destroy(dBullet)
 	}	
 	
 	if currentHp <= 0
