@@ -1,0 +1,1 @@
+currentHp = 3;
