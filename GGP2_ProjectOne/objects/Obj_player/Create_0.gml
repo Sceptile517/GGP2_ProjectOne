@@ -1,3 +1,3 @@
-currentHp = 3;
+currentHp = 10;
 
 weapon = 0
