@@ -24,4 +24,3 @@ if collision_circle(x,y,20,Obj_Enemy,false,true)
 		}
 		
 }
-fireCounter = fireCounter + 1

@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_51mm",
-    "path": "sprites/Spr_51mm/Spr_51mm.yy",
+    "name": "MinigunBullet",
+    "path": "sprites/MinigunBullet/MinigunBullet.yy",
   },
   "spriteMaskId": null,
   "visible": true,
