@@ -1,5 +1,5 @@
 timer = 0;
 
-timerMax = 300;
+timerMax = random_range(100, 400);
 
 enemyAmount = 10;
