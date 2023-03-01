@@ -39,6 +39,7 @@
     {"name":"Obj_wall","order":9,"path":"objects/Obj_wall/Obj_wall.yy",},
     {"name":"Guns1","order":7,"path":"sprites/Guns1/Guns1.yy",},
     {"name":"Obj_Controls","order":8,"path":"objects/Obj_Controls/Obj_Controls.yy",},
+    {"name":"Obj_Mananger","order":16,"path":"objects/Obj_Mananger/Obj_Mananger.yy",},
     {"name":"Spr_Gate","order":15,"path":"sprites/Spr_Gate/Spr_Gate.yy",},
     {"name":"Dirt","order":18,"path":"sprites/Dirt/Dirt.yy",},
     {"name":"mud","order":6,"path":"sounds/mud/mud.yy",},
