@@ -125,7 +125,8 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 	
 	if currentHp <= 0
 		{
-			instance_destroy(self)	
+			instance_destroy(self)
+			global.points = global.points + 10;
 		}
 		
 if collision_circle(x,y,60,Obj_51mm,false, true)
