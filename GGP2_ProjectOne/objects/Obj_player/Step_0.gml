@@ -28,6 +28,8 @@ if collision_circle(x,y,28,Obj_Enemy,false,true)
 		room_restart()
 	}
 	
+
+	
 		/* if Obj_Manager.amountEnemy <= 0
 			{
 				if collision_circle(x,y,30,Obj_DoorOpen, false, true)
@@ -53,3 +55,4 @@ if x >= 1271 // x-axis wall right
 {
 	x = 1271
 }
+

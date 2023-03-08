@@ -29,7 +29,7 @@
   "IncludedFiles": [],
   "isEcma": false,
   "MetaData": {
-    "IDEVersion": "2023.1.0.58",
+    "IDEVersion": "2023.1.1.62",
   },
   "resources": [
     {"id":{"name":"powerful","path":"sounds/powerful/powerful.yy",},"order":7,},
@@ -47,7 +47,7 @@
     {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},"order":1,},
     {"id":{"name":"Spr_blank_button","path":"sprites/Spr_blank_button/Spr_blank_button.yy",},"order":6,},
     {"id":{"name":"Spr_minigun","path":"sprites/Spr_minigun/Spr_minigun.yy",},"order":13,},
-    {"id":{"name":"Spr_Gate","path":"sprites/Spr_Gate/Spr_Gate.yy",},"order":15,},
+    {"id":{"name":"Spr_Gate","path":"sprites/Spr_Gate/Spr_Gate.yy",},"order":19,},
     {"id":{"name":"Spr_Corner","path":"sprites/Spr_Corner/Spr_Corner.yy",},"order":12,},
     {"id":{"name":"EnemyCar","path":"sprites/EnemyCar/EnemyCar.yy",},"order":10,},
     {"id":{"name":"Anemo","path":"sounds/Anemo/Anemo.yy",},"order":3,},

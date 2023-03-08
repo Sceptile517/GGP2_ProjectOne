@@ -129,7 +129,7 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 			global.points = global.points + 10;
 		}
 		
-if collision_circle(x,y,60,Obj_51mm,false, true)
+if collision_circle(x,y,60,Obj_MinigunBullet,false, true)
 	{
 		currentHp -= .5
 		var dbullet = instance_nearest(x,y,Obj_51mm)
