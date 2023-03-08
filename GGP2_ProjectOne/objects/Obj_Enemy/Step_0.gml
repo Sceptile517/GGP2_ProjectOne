@@ -117,7 +117,7 @@ if firstTimeModeSwitch
 	
 if collision_circle(x,y,60,Obj_bullet,false, true)
 	{
-		currentHp -= 5
+		currentHp -= 3
 		var dbullet = instance_nearest(x,y,Obj_bullet)
 		
 		instance_destroy(dbullet)
