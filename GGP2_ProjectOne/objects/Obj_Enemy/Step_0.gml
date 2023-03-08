@@ -131,15 +131,16 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 		
 if collision_circle(x,y,60,Obj_MinigunBullet,false, true)
 	{
-		currentHp -= .5
-		var dbullet = instance_nearest(x,y,Obj_51mm)
+		currentHp -= 3
+		var abullet = instance_nearest(x,y,Obj_MinigunBullet)
 		
-		instance_destroy(dbullet)
+		instance_destroy(abullet)
 	}	
 	
 	if currentHp <= 0
 		{
 			instance_destroy(self)	
+			
 		}
 image_angle = direction
 
