@@ -29,7 +29,6 @@
     {"name":"Spr_CarOne","order":2,"path":"sprites/Spr_CarOne/Spr_CarOne.yy",},
     {"name":"Spr_bullet","order":1,"path":"sprites/Spr_bullet/Spr_bullet.yy",},
     {"name":"Spr_blank_button","order":6,"path":"sprites/Spr_blank_button/Spr_blank_button.yy",},
-    {"name":"Spr_minigun","order":13,"path":"sprites/Spr_minigun/Spr_minigun.yy",},
     {"name":"Spr_Gate","order":19,"path":"sprites/Spr_Gate/Spr_Gate.yy",},
     {"name":"Spr_Corner","order":12,"path":"sprites/Spr_Corner/Spr_Corner.yy",},
     {"name":"EnemyCar","order":10,"path":"sprites/EnemyCar/EnemyCar.yy",},

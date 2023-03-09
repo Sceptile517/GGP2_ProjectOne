@@ -4,7 +4,7 @@ switch (weapon)
 		gun_spr = Guns1
 		break;
 	case 1:
-		gun_spr = Spr_minigun
+		gun_spr = Minigun
 		break;
 }
 draw_self();

@@ -47,7 +47,6 @@
     {"id":{"name":"Spr_CarOne","path":"sprites/Spr_CarOne/Spr_CarOne.yy",},},
     {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},},
     {"id":{"name":"Spr_blank_button","path":"sprites/Spr_blank_button/Spr_blank_button.yy",},},
-    {"id":{"name":"Spr_minigun","path":"sprites/Spr_minigun/Spr_minigun.yy",},},
     {"id":{"name":"Spr_Gate","path":"sprites/Spr_Gate/Spr_Gate.yy",},},
     {"id":{"name":"Spr_Corner","path":"sprites/Spr_Corner/Spr_Corner.yy",},},
     {"id":{"name":"EnemyCar","path":"sprites/EnemyCar/EnemyCar.yy",},},
