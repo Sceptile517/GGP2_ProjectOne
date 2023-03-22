@@ -1,5 +1,5 @@
 //x += hspd;
 //y += vspd;
-image_xscale = 5;
-image_yscale = 5;
+image_xscale = 3;
+image_yscale = 3;
 fireCounter = fireCounter + 1

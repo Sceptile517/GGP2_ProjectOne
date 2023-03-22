@@ -72,7 +72,7 @@
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},},
     {"id":{"name":"Obj_score","path":"objects/Obj_score/Obj_score.yy",},},
     {"id":{"name":"Spr_coin","path":"sprites/Spr_coin/Spr_coin.yy",},},
-    {"id":{"name":"Obj_coll","path":"objects/Obj_coll/Obj_coll.yy",},},
+    {"id":{"name":"Obj_collectItem","path":"objects/Obj_collectItem/Obj_collectItem.yy",},},
     {"id":{"name":"Obj_helpButton","path":"objects/Obj_helpButton/Obj_helpButton.yy",},},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},},
     {"id":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},},

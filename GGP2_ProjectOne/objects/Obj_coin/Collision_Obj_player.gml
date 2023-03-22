@@ -4,3 +4,4 @@ with (Obj_states)
 }
 
 instance_create_layer(x, y, "Arena", Obj_collectItem)
+instance_destroy()

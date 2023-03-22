@@ -50,7 +50,7 @@
     {"name":"Obj_Enemy","order":3,"path":"objects/Obj_Enemy/Obj_Enemy.yy",},
     {"name":"Obj_score","order":15,"path":"objects/Obj_score/Obj_score.yy",},
     {"name":"Spr_coin","order":20,"path":"sprites/Spr_coin/Spr_coin.yy",},
-    {"name":"Obj_coll","order":19,"path":"objects/Obj_coll/Obj_coll.yy",},
+    {"name":"Obj_collectItem","order":19,"path":"objects/Obj_collectItem/Obj_collectItem.yy",},
     {"name":"Obj_helpButton","order":6,"path":"objects/Obj_helpButton/Obj_helpButton.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
     {"name":"Obj_Gate","order":13,"path":"objects/Obj_Gate/Obj_Gate.yy",},
