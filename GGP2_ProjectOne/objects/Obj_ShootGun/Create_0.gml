@@ -21,8 +21,8 @@
 // Bullet Spawn Var
 fireCounter = 0;
 fireRate = 25;
-gunOffsetX = -25;
-gunOffsetY = -7;
+gunOffsetX = 15;
+gunOffsetY = -15;
 //gunOffsetx = +11;
 
 gunDirection = point_direction(0,0, gunOffsetX, gunOffsetY);

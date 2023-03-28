@@ -140,11 +140,6 @@ if collision_circle(x,y,60,Obj_MinigunBullet,false, true)
 	
 	if currentHp <= 0
 		{
-			var lootDrop = random(100)
-			if(lootDrop >= 25)
-			{
-				instance_create_layer(x,y,"Arena", Obj_coin)
-			}
 			
 			instance_destroy(self)	
 			
