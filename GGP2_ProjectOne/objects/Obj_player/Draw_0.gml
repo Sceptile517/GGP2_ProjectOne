@@ -8,4 +8,7 @@ switch (weapon)
 		break;
 }
 draw_self();
+
+
+
 draw_sprite_ext(gun_spr, image_index, x, y, 1, 1, image_angle, c_white, 1);

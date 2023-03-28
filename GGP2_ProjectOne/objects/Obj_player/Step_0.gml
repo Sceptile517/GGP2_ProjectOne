@@ -21,23 +21,7 @@ if collision_circle(x,y,28,Obj_Enemy,false,true)
 	var nearEnemy = instance_nearest(x,y,Obj_Enemy)
 		instance_destroy(nearEnemy)
 }
-
-	if currentHp <= 0
-	{
-		instance_destroy(self)
-		room_restart()
-	}
-	
-
-	
-		/* if Obj_Manager.amountEnemy <= 0
-			{
-				if collision_circle(x,y,30,Obj_DoorOpen, false, true)
-				{
-					room_goto(Obj_DoorOpen.goToRoom)
-				}
-			} */
-			
+		
 if y <= 46{ // Y-axis wall up
 	y = 46
 }
