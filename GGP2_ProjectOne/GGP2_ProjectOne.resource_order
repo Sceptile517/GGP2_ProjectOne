@@ -16,6 +16,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"draw_Health","order":1,"path":"scripts/draw_Health/draw_Health.yy",},
     {"name":"powerful","order":7,"path":"sounds/powerful/powerful.yy",},
     {"name":"Spr_Enemy","order":5,"path":"sprites/Spr_Enemy/Spr_Enemy.yy",},
     {"name":"Obj_quitButton","order":7,"path":"objects/Obj_quitButton/Obj_quitButton.yy",},
@@ -52,7 +53,6 @@
     {"name":"Obj_collectItem","order":19,"path":"objects/Obj_collectItem/Obj_collectItem.yy",},
     {"name":"Obj_helpButton","order":6,"path":"objects/Obj_helpButton/Obj_helpButton.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
-    {"name":"sHealthbar","order":21,"path":"sprites/sHealthbar/sHealthbar.yy",},
     {"name":"Obj_Gate","order":13,"path":"objects/Obj_Gate/Obj_Gate.yy",},
     {"name":"titans","order":4,"path":"sounds/titans/titans.yy",},
     {"name":"Rm_Arena3","order":2,"path":"rooms/Rm_Arena3/Rm_Arena3.yy",},

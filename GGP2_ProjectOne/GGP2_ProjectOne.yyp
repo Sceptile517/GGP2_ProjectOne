@@ -33,6 +33,7 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"draw_Health","path":"scripts/draw_Health/draw_Health.yy",},},
     {"id":{"name":"powerful","path":"sounds/powerful/powerful.yy",},},
     {"id":{"name":"Spr_Enemy","path":"sprites/Spr_Enemy/Spr_Enemy.yy",},},
     {"id":{"name":"Obj_quitButton","path":"objects/Obj_quitButton/Obj_quitButton.yy",},},
@@ -48,6 +49,7 @@
     {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},},
     {"id":{"name":"Spr_blank_button","path":"sprites/Spr_blank_button/Spr_blank_button.yy",},},
     {"id":{"name":"Spr_Gate","path":"sprites/Spr_Gate/Spr_Gate.yy",},},
+    {"id":{"name":"init_health","path":"scripts/init_health/init_health.yy",},},
     {"id":{"name":"Spr_Corner","path":"sprites/Spr_Corner/Spr_Corner.yy",},},
     {"id":{"name":"EnemyCar","path":"sprites/EnemyCar/EnemyCar.yy",},},
     {"id":{"name":"Anemo","path":"sounds/Anemo/Anemo.yy",},},
@@ -73,7 +75,6 @@
     {"id":{"name":"Obj_collectItem","path":"objects/Obj_collectItem/Obj_collectItem.yy",},},
     {"id":{"name":"Obj_helpButton","path":"objects/Obj_helpButton/Obj_helpButton.yy",},},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},},
-    {"id":{"name":"sHealthbar","path":"sprites/sHealthbar/sHealthbar.yy",},},
     {"id":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},},
     {"id":{"name":"titans","path":"sounds/titans/titans.yy",},},
     {"id":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
