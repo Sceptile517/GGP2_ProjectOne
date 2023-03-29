@@ -17,11 +17,3 @@ state = 0
 fireCount = 0
 fireDely = 2
 pauseDely = 15
-
-gunOffsetX = 15;
-gunOffsetY = 15;
-
-
-gunDirection = point_direction(0,0, gunOffsetX, gunOffsetY);
-
-gunLength = point_distance(0,0, gunOffsetX, gunOffsetY);
