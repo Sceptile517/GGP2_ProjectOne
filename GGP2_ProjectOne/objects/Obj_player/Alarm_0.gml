@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-bob = instance_create_depth(x+30, y, Obj_MinigunBullet)
-bob.speed = 12
+bob = instance_create_depth(x+30, y, Obj_51mm)
+//bob.speed = 12
 bob.direction = 0
 bob.image_angle = 0
 
