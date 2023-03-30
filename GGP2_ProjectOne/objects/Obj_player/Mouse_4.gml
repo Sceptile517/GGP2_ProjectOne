@@ -9,5 +9,11 @@ if state = 0
 		
 }
 
-
-
+bullet = instance_create_depth(x, y, depth - 1, Obj_51mm)
+with(bullet)
+{
+	direction = point_direction(x, y, mouse_x, mouse_y)
+	image_angle = direction
+	speed = 12
+	
+}
