@@ -130,10 +130,10 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 			
 		}
 		
-if collision_circle(x,y,60,Obj_MinigunBullet,false, true)
+if collision_circle(x,y,60,Obj_51mm,false, true)
 	{
 		currentHp -= 3
-		var abullet = instance_nearest(x,y,Obj_MinigunBullet)
+		var abullet = instance_nearest(x,y,Obj_51mm)
 		
 		instance_destroy(abullet)
 	}	
