@@ -10,3 +10,5 @@ else
 	instance_destroy(Obj_minigun)
 	
 }
+
+

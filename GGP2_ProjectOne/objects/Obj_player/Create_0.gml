@@ -10,6 +10,8 @@
 
 weapon = 0
 
+
+
 state = 0
 //0: doing nothing
 //1: currently firing burst of 5

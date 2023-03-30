@@ -2,9 +2,11 @@ switch (weapon)
 {
 	case 0:
 		gun_spr = Guns1
+
 		break;
 	case 1:
 		gun_spr = Minigun
+
 		break;
 }
 draw_self();
