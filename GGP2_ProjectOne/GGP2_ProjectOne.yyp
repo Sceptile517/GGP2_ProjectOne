@@ -87,8 +87,8 @@
     {"id":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"roomId":{"name":"Rm_Menu","path":"rooms/Rm_Menu/Rm_Menu.yy",},},
+    {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"roomId":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
   ],
   "TextureGroups": [
