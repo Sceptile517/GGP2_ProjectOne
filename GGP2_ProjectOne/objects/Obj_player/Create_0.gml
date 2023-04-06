@@ -5,7 +5,7 @@ hp_max = hp
 healthbar_width = 100
 healthbar_hight = 12
 
-healthbar_x = (1117/2) - (healthbar_width/2) // healthbar location
+healthbar_x = (2217/2) - (healthbar_width/2) // healthbar location
 healthbar_y = ystart - 280 // healthbar location
 
 weapon = 0
