@@ -8,7 +8,7 @@ image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
 //audio_play_sound(truck, 0, false)
 
-if currentHp <= 0
+if hp <= 0
 {
 	instance_destroy(self)
 	room_restart()
@@ -16,7 +16,7 @@ if currentHp <= 0
 
 if collision_circle(x,y,28,Obj_Enemy,false,true)
 {
-	currentHp = -2
+	hp = -2
 	var nearEnemy = instance_nearest(x,y,Obj_Enemy)
 		instance_destroy(nearEnemy)
 }
