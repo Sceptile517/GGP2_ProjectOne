@@ -1,8 +1,6 @@
-currentHp = 5
 
-make_health(10)
 
-//hp = 10
+hp = 10
 
 //hp_max = hp
 
