@@ -91,8 +91,8 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
-    {"roomId":{"name":"Rm_Menu","path":"rooms/Rm_Menu/Rm_Menu.yy",},},
     {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
+    {"roomId":{"name":"Rm_Menu","path":"rooms/Rm_Menu/Rm_Menu.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
