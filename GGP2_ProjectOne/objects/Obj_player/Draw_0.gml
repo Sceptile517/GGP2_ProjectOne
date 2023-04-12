@@ -1,9 +1,5 @@
 draw_self();
 
-
-draw_Health(currentHp,maxHp);
-
-
 switch (weapon)
 {
 	case 0:

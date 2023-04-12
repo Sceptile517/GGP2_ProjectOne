@@ -16,6 +16,7 @@ if currentHp <= 0
 
 if collision_circle(x,y,28,Obj_Enemy,false,true)
 {
+	currentHp = -2
 	var nearEnemy = instance_nearest(x,y,Obj_Enemy)
 		instance_destroy(nearEnemy)
 }
