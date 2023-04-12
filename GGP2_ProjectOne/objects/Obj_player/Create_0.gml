@@ -1,12 +1,16 @@
-hp = 10
+currentHp = 5
 
-hp_max = hp
+make_health(10)
 
-healthbar_width = 100
-healthbar_hight = 12
+//hp = 10
 
-healthbar_x = (2217/2) - (healthbar_width/2) // healthbar location
-healthbar_y = ystart - 280 // healthbar location
+//hp_max = hp
+
+//healthbar_width = 100
+//healthbar_hight = 12
+
+//healthbar_x = (2217/2) - (healthbar_width/2) // healthbar location
+//healthbar_y = ystart - 280 // healthbar location
 
 weapon = 0
 
