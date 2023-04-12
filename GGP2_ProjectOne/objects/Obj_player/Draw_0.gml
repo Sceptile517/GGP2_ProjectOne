@@ -1,3 +1,5 @@
+draw_self();
+
 switch (weapon)
 {
 	case 0:
@@ -9,7 +11,7 @@ switch (weapon)
 
 		break;
 }
-draw_self();
+
 
 
 
