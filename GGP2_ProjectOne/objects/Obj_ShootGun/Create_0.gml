@@ -5,6 +5,6 @@ state = 0
 
 fireCount = 0
 fireDelay = 2
-pauseDelay = 20
+pauseDelay = 15
 
 firedeplayed = 0

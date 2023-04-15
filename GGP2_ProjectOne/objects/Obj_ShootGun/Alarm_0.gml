@@ -12,7 +12,7 @@ if(keyboard_check(vk_space) && (firedeplayed < 0))
 }
 
 fireCount = fireCount + 1
-if fireCount < 2
+if fireCount < 5
 {
 	alarm[0] = fireDelay
 }
