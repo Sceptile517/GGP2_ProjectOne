@@ -1,1 +1,0 @@
-make_health(10)
