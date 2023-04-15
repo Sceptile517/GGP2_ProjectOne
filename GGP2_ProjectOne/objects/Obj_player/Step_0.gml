@@ -8,6 +8,9 @@ image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
 //audio_play_sound(truck, 0, false)
 
+Obj_ShootGun.x = x + sprite_width/400
+Obj_ShootGun.y = y+ sprite_height/250
+
 
 if y <= 46{ // Y-axis wall up
 	y = 46
