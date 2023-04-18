@@ -1,6 +1,6 @@
 key_dash = ord("D")
 max_speed = 5
-dash_Timer = 0 // befor dashing agian
+dashTimer = 0 // befor dashing agian
 
 // new Var
 is_dashing = false
