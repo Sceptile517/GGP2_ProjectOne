@@ -1,4 +1,4 @@
-key_dash = ord("D")
+dash_key = ord("D")
 max_speed = 5
 dashTimer = 0 // befor dashing agian
 

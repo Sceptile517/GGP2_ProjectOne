@@ -18,6 +18,22 @@ if is_dashing
 		is_dashing = true
 }
 
+		if is_dashing
+		{
+			if keyboard_check(ord(dash_key))
+			{
+				point_direction(x,y, mouse_x, mouse_y)
+				image_speed = dash_speed /3
+			}
+			
+			image_speed = 1.1
+			
+			if !dash_key
+			{
+				image_speed = 0
+			}
+		}
+
 //audio_play_sound(truck, 0, false)
 
 Obj_ShootGun.x = x + sprite_width/400
@@ -41,4 +57,4 @@ if x >= 1271 // x-axis wall right
 {
 	x = 1271
 }
-
+		
