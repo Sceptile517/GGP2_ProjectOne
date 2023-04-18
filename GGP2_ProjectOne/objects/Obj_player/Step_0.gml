@@ -20,7 +20,7 @@ if is_dashing
 
 		if is_dashing
 		{
-			if keyboard_check(ord(dash_key))
+			if keyboard_check(dash_key)
 			{
 				point_direction(x,y, mouse_x, mouse_y)
 				image_speed = dash_speed /3
