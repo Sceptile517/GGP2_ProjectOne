@@ -8,7 +8,7 @@ image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
 if is_dashing
 {
-	if dash_speed.dashTimer <= 0
+	if dashTimer <= 0
 	{
 		is_dashing = true
 	}else{
