@@ -6,6 +6,7 @@ if point_distance(x, y, mouse_x, mouse_y) > 5
 		if keyboard_check(dash_key)
 		{
 			direction = point_direction(x, y, mouse_x, mouse_y)
+			
 		}
 	}
 }
@@ -14,17 +15,7 @@ else speed = 0;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
-//if is_dashing = false
-//{
-//	if keyboard_check(dash_key)
-//	{
-//		direction = point_direction(x, y, mouse_x, mouse_y)
-//		move_towards_point(mouse_x, mouse_y, 5)
-		
-//	}else{
-//		speed = 0
-//	}
-//}
+
 if !is_dashing and keyboard_check_pressed(dash_key)
 {
 	direction = point_direction(x, y, mouse_x, mouse_y)

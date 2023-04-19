@@ -123,28 +123,16 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 		instance_destroy(dbullet)
 	}	
 	
-	if currentHp <= 0
-		{
-			instance_destroy(self)
-			//global.points = global.points + 10;
-			
-		}
-		
-if collision_circle(x,y,60,Obj_51mm,false, true)
-	{
-		currentHp -= 3
-		var abullet = instance_nearest(x,y,Obj_51mm)
-		
-		instance_destroy(abullet)
-	}	
 	
-	if currentHp <= 0
-		{
+		if currentHp <= 0
+			{
+				instance_destroy(self)
+				//global.points = global.points + 10;
 			
-			instance_destroy(self)	
-			
-		}
-image_angle = direction
+			}
+		
+
+image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
 //mp_potential_step(Obj_player.x, Obj_player.y, 2, false)
 
