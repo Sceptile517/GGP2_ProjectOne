@@ -12,7 +12,7 @@ dash_speed = max_speed * 2
 hp = 50;
 hp_max = hp;
 
-healthbar_width = 100;
-healthbar_height = 12;
-healthbar_x = (320/2) - (healthbar_width/2);
-healthbar_y = ystart - 100;
+//healthbar_width = 100;
+//healthbar_height = 60;
+healthbar_x = 128;
+healthbar_y = 160;
