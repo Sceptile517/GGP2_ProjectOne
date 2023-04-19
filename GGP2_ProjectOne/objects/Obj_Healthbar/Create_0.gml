@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-healthbar_x = 128;
-healthbar_y = 160;
+healthbar_x = 96;
+healthbar_y = 88;

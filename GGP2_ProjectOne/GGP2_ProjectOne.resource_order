@@ -61,7 +61,6 @@
     {"name":"Obj_ShootGun","order":2,"path":"objects/Obj_ShootGun/Obj_ShootGun.yy",},
     {"name":"RightGun1","order":8,"path":"sprites/RightGun1/RightGun1.yy",},
     {"name":"Spr_51mm","order":14,"path":"sprites/Spr_51mm/Spr_51mm.yy",},
-    {"name":"Obj_states","order":18,"path":"objects/Obj_states/Obj_states.yy",},
     {"name":"sHealthbar_bg","order":23,"path":"sprites/sHealthbar_bg/sHealthbar_bg.yy",},
     {"name":"Obj_minigun","order":11,"path":"objects/Obj_minigun/Obj_minigun.yy",},
   ],
