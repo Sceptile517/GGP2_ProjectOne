@@ -9,10 +9,10 @@ dash_speed = max_speed * 2
 
 //Health
 
-//hp = 50;
-//hp_max = hp;
+currentHp = 5;
+make_health(10);
 
 //healthbar_width = 100;
 //healthbar_height = 60;
 healthbar_x = 128;
-healthbar_y = 160;
+healthbar_y = 160; 
