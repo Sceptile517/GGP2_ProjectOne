@@ -1,6 +1,6 @@
 dash_key = ord("D")
 max_speed = 5
-dashTimer = 0 // befor dashing agian
+
 
 // new Var
 is_dashing = false
@@ -9,8 +9,8 @@ dash_speed = max_speed * 2
 
 //Health
 
-hp = 50;
-hp_max = hp;
+//hp = 50;
+//hp_max = hp;
 
 //healthbar_width = 100;
 //healthbar_height = 60;
