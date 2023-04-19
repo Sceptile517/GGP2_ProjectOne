@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -41,6 +41,7 @@
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
     {"id":{"name":"EnemyCar2","path":"sprites/EnemyCar2/EnemyCar2.yy",},},
+    {"id":{"name":"Obj_Healthbar","path":"objects/Obj_Healthbar/Obj_Healthbar.yy",},},
     {"id":{"name":"Obj_MinigunBullet","path":"objects/Obj_MinigunBullet/Obj_MinigunBullet.yy",},},
     {"id":{"name":"Minigun","path":"sprites/Minigun/Minigun.yy",},},
     {"id":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},},
@@ -88,8 +89,8 @@
     {"id":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"roomId":{"name":"Rm_Arena","path":"rooms/Rm_Arena/Rm_Arena.yy",},},
+    {"roomId":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
