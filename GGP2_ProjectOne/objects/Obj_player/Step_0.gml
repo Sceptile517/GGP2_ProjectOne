@@ -6,10 +6,22 @@ else speed = 0;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
 
-if (keyboard_check_pressed(dash_key)) && (is_dashing == true)
+if is_dashing = false
 {
-	is_dashing = false
+	if keyboard_check(dash_key)
+	{
+		direction = point_direction(x, y, mouse_x, mouse_y)
+		speed = 12
+	}else{
+		speed = 0
+	}
+}
+if !is_dashing and keyboard_check_pressed(dash_key)
+{
+	direction = point_direction(x, y, mouse_x, mouse_y)
+	speed = 12
 	alarm[0] = dash_speed
+	is_dashing = true
 }
 
 //audio_play_sound(truck, 0, false)
