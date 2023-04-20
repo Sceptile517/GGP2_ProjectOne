@@ -37,7 +37,6 @@
     {"id":{"name":"powerful","path":"sounds/powerful/powerful.yy",},},
     {"id":{"name":"Spr_Enemy","path":"sprites/Spr_Enemy/Spr_Enemy.yy",},},
     {"id":{"name":"LeftGun1","path":"sprites/LeftGun1/LeftGun1.yy",},},
-    {"id":{"name":"gameplayMusic","path":"sounds/gameplayMusic/gameplayMusic.yy",},},
     {"id":{"name":"Obj_Corner","path":"objects/Obj_Corner/Obj_Corner.yy",},},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
@@ -80,11 +79,14 @@
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},},
     {"id":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},},
     {"id":{"name":"titans","path":"sounds/titans/titans.yy",},},
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"MenuMusic","path":"sounds/MenuMusic/MenuMusic.yy",},},
 =======
     {"id":{"name":"Obj_playbutton","path":"objects/Obj_playbutton/Obj_playbutton.yy",},},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of cedfd2e (added the two sounds)
     {"id":{"name":"sHealthbar_border","path":"sprites/sHealthbar_border/sHealthbar_border.yy",},},
     {"id":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"id":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},},
