@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(Rm_Arena3) //this will make it go into called room
+game_end() //this will make it go into called room

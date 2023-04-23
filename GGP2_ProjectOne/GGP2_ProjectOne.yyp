@@ -57,6 +57,7 @@
     {"id":{"name":"Anemo","path":"sounds/Anemo/Anemo.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Obj_51mm","path":"objects/Obj_51mm/Obj_51mm.yy",},},
+    {"id":{"name":"Obj_quitbutton","path":"objects/Obj_quitbutton/Obj_quitbutton.yy",},},
     {"id":{"name":"gameplay","path":"sounds/gameplay/gameplay.yy",},},
     {"id":{"name":"mix","path":"sounds/mix/mix.yy",},},
     {"id":{"name":"dragonmetal","path":"sounds/dragonmetal/dragonmetal.yy",},},

@@ -37,6 +37,7 @@
     {"name":"EnemyCar","order":10,"path":"sprites/EnemyCar/EnemyCar.yy",},
     {"name":"Anemo","order":3,"path":"sounds/Anemo/Anemo.yy",},
     {"name":"Obj_51mm","order":12,"path":"objects/Obj_51mm/Obj_51mm.yy",},
+    {"name":"Obj_quitbutton","order":26,"path":"objects/Obj_quitbutton/Obj_quitbutton.yy",},
     {"name":"gameplay","order":9,"path":"sounds/gameplay/gameplay.yy",},
     {"name":"mix","order":5,"path":"sounds/mix/mix.yy",},
     {"name":"dragonmetal","order":2,"path":"sounds/dragonmetal/dragonmetal.yy",},
