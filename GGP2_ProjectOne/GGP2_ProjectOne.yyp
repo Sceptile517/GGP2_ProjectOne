@@ -78,6 +78,7 @@
     {"id":{"name":"Spr_coin","path":"sprites/Spr_coin/Spr_coin.yy",},},
     {"id":{"name":"Obj_collectItem","path":"objects/Obj_collectItem/Obj_collectItem.yy",},},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},},
+    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},},
     {"id":{"name":"titans","path":"sounds/titans/titans.yy",},},
     {"id":{"name":"Obj_playbutton","path":"objects/Obj_playbutton/Obj_playbutton.yy",},},

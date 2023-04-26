@@ -57,6 +57,7 @@
     {"name":"Spr_coin","order":20,"path":"sprites/Spr_coin/Spr_coin.yy",},
     {"name":"Obj_collectItem","order":19,"path":"objects/Obj_collectItem/Obj_collectItem.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
+    {"name":"Sprite24","order":27,"path":"sprites/Sprite24/Sprite24.yy",},
     {"name":"Obj_Gate","order":13,"path":"objects/Obj_Gate/Obj_Gate.yy",},
     {"name":"titans","order":4,"path":"sounds/titans/titans.yy",},
     {"name":"Obj_playbutton","order":24,"path":"objects/Obj_playbutton/Obj_playbutton.yy",},
