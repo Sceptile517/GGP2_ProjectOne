@@ -4,7 +4,7 @@ state = 0
 //2: pausing between burt
 
 fireCount = 0
-fireDelay = 2
+fireDelay = 1
 pauseDelay = 4
 
 firedeplayed = 0
