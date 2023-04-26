@@ -117,7 +117,7 @@ if firstTimeModeSwitch
 	
 if collision_circle(x,y,60,Obj_bullet,false, true)
 	{
-		currentHp -= 3
+		currentHp -= 1
 		var dbullet = instance_nearest(x,y,Obj_bullet)
 		
 		instance_destroy(dbullet)
@@ -126,24 +126,12 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 	if currentHp <= 0
 		{
 			instance_destroy(self)
-			//global.points = global.points + 10;
+			score += 20
 			
 		}
 		
-if collision_circle(x,y,60,Obj_51mm,false, true)
-	{
-		currentHp -= 3
-		var abullet = instance_nearest(x,y,Obj_51mm)
+
 		
-		instance_destroy(abullet)
-	}	
-	
-	if currentHp <= 0
-		{
-			
-			instance_destroy(self)	
-			
-		}
 image_angle = direction
 
 //mp_potential_step(Obj_player.x, Obj_player.y, 2, false)

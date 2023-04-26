@@ -127,12 +127,12 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 		if currentHp <= 0
 			{
 				instance_destroy(self)
-				//global.points = global.points + 10;
+				score += 10
 			
 			}
 		
 
-image_angle = point_direction(x, y, mouse_x, mouse_y) -90;
+image_angle = point_direction(x, y, Obj_player.x, Obj_player.y) -90;
 
 //mp_potential_step(Obj_player.x, Obj_player.y, 2, false)
 
