@@ -72,6 +72,7 @@
     {"name":"inst_2F45D945","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_4668124E","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_456B21E7","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_19B9B7","path":"rooms/Rm_Arena/Rm_Arena.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -144,6 +145,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F45D945","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4668124E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_456B21E7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19B9B7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_764BB65A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":-0.03426402,"scaleX":1.687499,"scaleY":2.4687502,"spriteId":{"name":"Dirt","path":"sprites/Dirt/Dirt.yy",},"x":90.99542,"y":102.73436,},
