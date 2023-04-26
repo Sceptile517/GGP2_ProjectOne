@@ -1,4 +1,4 @@
-timer += 1;
+timer += 0.5;
 
 if enemyAmount > 0
 {
