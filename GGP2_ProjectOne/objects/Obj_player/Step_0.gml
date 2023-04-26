@@ -50,7 +50,7 @@ if x >= 1271 // x-axis wall right
 	
 if currentHp <= 0
 {	
-	instance_destroy(Obj_minigun)
+	
 	instance_destroy(self)
 	room_restart()
 }	

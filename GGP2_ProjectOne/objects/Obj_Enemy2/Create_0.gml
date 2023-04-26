@@ -27,7 +27,7 @@ lerpPos = 0;
 targerBuffer = 64
 randomTargetX = random_range(-targerBuffer, targerBuffer)
 randomTargetY = random_range(-targerBuffer, targerBuffer)
-make_health(5); // object health
+make_health(10); // object health
 
 kBStart = false
 
