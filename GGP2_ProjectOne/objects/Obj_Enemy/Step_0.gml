@@ -3,11 +3,12 @@ y = currentY
 if instance_exists(Obj_player)
 {
 	playerDistance = distance_to_object(Obj_player)
+	image_angle = point_direction(x, y, Obj_player.x, Obj_player.y) - 90
 }
 
 if firstTimeModeSwitch = false
 {
-	if playerDistanceMin <= playerDistanceMin
+	if playerDistanceMIn <= playerDistanceMIn
 	{
 		if mode = 0
 		{
@@ -15,7 +16,7 @@ if firstTimeModeSwitch = false
 			firstTimeModeSwitch = true
 		}
 	}
-	if playerDistanceMin > playerDistanceMin
+	if playerDistanceMIn > playerDistanceMIn
 	{
 		if mode = 1
 		{
@@ -59,20 +60,18 @@ if instance_exists(Obj_player)
 	}
 }
 // Chases player on y axis
-if instance_exists(Obj_player)
-{
-	if mode = 1
+if mode = 1
 	{
 		if Obj_player.y + randomTargetY > y
 		{
-			currentY += mode1spd + random_range(0 , 1) // speed of enemy of positions
+			currentY += mode1spd + random_range(0,1) // speed of enemy of positions
 		}
 			if Obj_player.y + randomTargetY < y
 			{
 				currentY -= mode1spd
 			}
 	}
-}
+
 
 if firstTimeModeSwitch
 {
@@ -88,8 +87,8 @@ if firstTimeModeSwitch
 	}else{
 		currentY -= mode1spd
 	}
-}
 
+}
 if firstTimeModeSwitch
 {
 	if mode = 0
@@ -122,7 +121,7 @@ if currentHp <= 0
 	score += 10
 }
 
-image_angle = point_direction(x, y, Obj_player.x, Obj_player.y) - 90
+
 
 if !hasHit
 {
@@ -138,22 +137,4 @@ if !hasHit
 if !collision_circle(x, y, 32, Obj_player, false, true)
 {
 	hasHit = false
-}
-if y <= 46
-{
-	y = 46
-}
-if y >= 720 // Y-axis wall down
-{
-	y = 720
-}
-
-if x <= 72 // X-axis wall left
-{
-	x = 72
-}
-
-if x >= 1271 // x-axis wall right
-{
-	x = 1271
 }

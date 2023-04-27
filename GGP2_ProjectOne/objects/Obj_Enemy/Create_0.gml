@@ -1,32 +1,55 @@
-image_xscale = 4
-image_yscale = 4
+image_xscale = 4.5
+image_yscale = 4.5
 
-xStart = x
-yStart = y
+/// @description Constructor
 
-xEnd = xStart + 150
-yEnd = yStart + 150
+xStart = x;
+yStart = y;
 
-startEnd = false
+xEnd = xStart + 150;
+yEnd = yStart + 150;
 
-mode = 0
+startEnd = false;
 
-mode0spd = random_range(0.005, 0.02)
-mode1spd = random_range(1,4)
+mode = 0;
 
-firstTimeModeSwitch = false
+mode0spd = random_range(0.005,0.02);
+mode1spd = random_range(1,4);
 
-playerDistance = 0
-playerDistanceMin = 300
+firstTimeModeSwitch = false;
 
-currentX = x
-currentY = y
+playerDistance = 0;
+playerDistanceMIn = 300;
 
-lerpPos = 0
+currentX = x;
+currentY = y;
 
-targerBuffer = 80
+lerpPos = 0;
+
+targerBuffer = 64
 randomTargetX = random_range(-targerBuffer, targerBuffer)
-randomTargetY = random_range(-targerBuffer, targetBuffer)
-make_health(5) // Obj health
+randomTargetY = random_range(-targerBuffer, targerBuffer)
+make_health(10); // object health
+
+
 
 hasHit = false
+
+
+if y <= 142{ // Y-axis wall up
+	y = 142
+}
+if y >= 750 // Y-axis wall down
+{
+	y = 750
+}
+
+if x <= 40 // X-axis wall left
+{
+	x = 40
+}
+
+if x >= 1321 // x-axis wall right
+{
+	x = 1321
+}
