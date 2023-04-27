@@ -85,7 +85,6 @@
     {"id":{"name":"sHealthbar_border","path":"sprites/sHealthbar_border/sHealthbar_border.yy",},},
     {"id":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"id":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},},
-    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"Obj_ShootGun","path":"objects/Obj_ShootGun/Obj_ShootGun.yy",},},
     {"id":{"name":"Fnt_menu","path":"fonts/Fnt_menu/Fnt_menu.yy",},},
     {"id":{"name":"RightGun1","path":"sprites/RightGun1/RightGun1.yy",},},
