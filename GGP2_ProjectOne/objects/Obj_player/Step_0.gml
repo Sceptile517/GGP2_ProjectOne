@@ -24,30 +24,18 @@ if !is_dashing and keyboard_check_pressed(dash_key)
 	is_dashing = true
 }
 
-//audio_play_sound(truck, 0, false)
+audio_play_sound(truck, 0, false)
 
 Obj_ShootGun.x = x + sprite_width/400
 Obj_ShootGun.y = y + sprite_height/250
 
 
-if y <= 46{ // Y-axis wall up
-	y = 46
-}
-if y >= 720 // Y-axis wall down
-{
-	y = 720
-}
 
-if x <= 72 // X-axis wall left
-{
-	x = 72
-}
-
-if x >= 1271 // x-axis wall right
-{
-	x = 1271
-}
 	
+if collision_circle(x, y, 32, Obj_Enemy, false, true)
+{
+	currentHp -= 2
+}
 if currentHp <= 0
 {	
 	
