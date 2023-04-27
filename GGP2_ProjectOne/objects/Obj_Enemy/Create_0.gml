@@ -29,6 +29,7 @@ randomTargetX = random_range(-targerBuffer, targerBuffer)
 randomTargetY = random_range(-targerBuffer, targerBuffer)
 make_health(5); // object health
 
+/*
 kBStart = false
 
 kBStartX = 0
@@ -38,4 +39,4 @@ knockBackX = 0
 knockBackY = 0
 
 hasHit = false
-knockBackAmount = 64
+//knockBackAmount = 0

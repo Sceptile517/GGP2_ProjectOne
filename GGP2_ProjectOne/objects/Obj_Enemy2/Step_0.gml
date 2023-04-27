@@ -1,4 +1,5 @@
- x =	currentX;
+/*
+x =	currentX;
 	y = currentY;
 if instance_exists(Obj_player){	
 	playerDistance = distance_to_object(Obj_player)

@@ -149,57 +149,56 @@ if !hasHit
 			hasHit = true
 		// = instance_nearest(x,y,Obj_enemy)
 		//hitEnemy.currentHp -= 3;
-			if Obj_player.x > x{
-				knockBackX = x - knockBackAmount
-			}else{
-				knockBackX = x + knockBackAmount
-			}
+		//	if Obj_player.x > x{
+		//		knockBackX = x -  knockBackAmount
+		//	}else{
+		//		knockBackX = x + knockBackAmount
+		//	}
 		
-			if Obj_player.y > y
-			{
-				knockBackY = y - knockBackAmount
-			}else{
-				knockBackY = y + knockBackAmount
-			}
+		//	if Obj_player.y > y
+		//	{
+		//		knockBackY = y - knockBackAmount
+		//	}else{
+		//		knockBackY = y + knockBackAmount
+		//	}
 		
-			mode = 2
+			//mode = 2
 		
 
-		}else{
-			//hasHit = false
 		}
 }
-if !collision_circle(x,y,32,Obj_player, false, true){
+else if !collision_circle(x,y,32,Obj_player, false, true)
+{
 	hasHit = false
 }
 
 
-if mode = 2
-{
-	if kBStart = false
-	{
-		kBStartX = x
-		kBStartY = y
-		kBStart = true
+//if mode = 2
+
+//	if kBStart = false
+	//{
+//		kBStartX = x
+//		kBStartY = y
+//		kBStart = true
 		
-	}else{
-		lerpPos += (mode0spd * 6)
-		x = lerp(kBStartX, knockBackX, lerpPos);
-		y = lerp(kBStartY, knockBackY, lerpPos);
-	}
+	//}else{
+		//lerpPos += (mode0spd * 6)
+	//	x = lerp(kBStartX, knockBackX, lerpPos);
+	//	y = lerp(kBStartY, knockBackY, lerpPos);
+	//}
 	if lerpPos >= 1
 	{
-		kBStart = false
-		kBStartX = 0
-		kBStartY = 0
-		knockBackX = 0
-		knockBackY = 0
+	//	kBStart = false
+	//	kBStartX = 0
+	//	kBStartY = 0
+	//	knockBackX = 0
+	//	knockBackY = 0
 		lerpPos = 0
 		currentX = x
 		currentY = y
 		mode = 1
 	}
-}
+
 
 if y <= 46{ // Y-axis wall up
 	y = 46
