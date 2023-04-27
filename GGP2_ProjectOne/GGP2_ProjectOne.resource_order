@@ -22,6 +22,7 @@
     {"name":"LeftGun1","order":9,"path":"sprites/LeftGun1/LeftGun1.yy",},
     {"name":"Obj_Corner","order":10,"path":"objects/Obj_Corner/Obj_Corner.yy",},
     {"name":"Obj_bullet","order":1,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Explosion","order":27,"path":"sprites/Explosion/Explosion.yy",},
     {"name":"EnemyCar2","order":25,"path":"sprites/EnemyCar2/EnemyCar2.yy",},
     {"name":"Obj_Healthbar","order":22,"path":"objects/Obj_Healthbar/Obj_Healthbar.yy",},
     {"name":"Obj_MinigunBullet","order":14,"path":"objects/Obj_MinigunBullet/Obj_MinigunBullet.yy",},
