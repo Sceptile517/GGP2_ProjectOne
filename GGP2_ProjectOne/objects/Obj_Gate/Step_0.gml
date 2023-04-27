@@ -12,7 +12,9 @@ if enemyAmount > 0
 	instance_destroy(self)
 }
 
+/*
 Timer += 0.3;
+
 
 if enemyAmount > 0
 {
