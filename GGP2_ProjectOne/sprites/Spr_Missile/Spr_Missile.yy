@@ -14,9 +14,6 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ed55b3b1-47f4-4bde-8efa-bfe5c2a0629f",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ea2fca4d-a6d1-4a5e-8c71-43d52cedb2b2",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1a7d8c18-5557-43ac-8c2b-a8bc2f4ccd45",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8cd886a4-d777-4af5-9474-d648973834e9",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -69,7 +66,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 4.0,
+    "length": 1.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -81,9 +78,6 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ed55b3b1-47f4-4bde-8efa-bfe5c2a0629f","path":"sprites/Spr_Missile/Spr_Missile.yy",},},},"Disabled":false,"id":"35f93fb1-0e60-46d9-9e4c-8c10d00cd0cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ea2fca4d-a6d1-4a5e-8c71-43d52cedb2b2","path":"sprites/Spr_Missile/Spr_Missile.yy",},},},"Disabled":false,"id":"3be91fdf-ff78-49b5-aa88-69657d9509eb","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1a7d8c18-5557-43ac-8c2b-a8bc2f4ccd45","path":"sprites/Spr_Missile/Spr_Missile.yy",},},},"Disabled":false,"id":"95351dc7-d564-47dd-8b19-ac2757556f82","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8cd886a4-d777-4af5-9474-d648973834e9","path":"sprites/Spr_Missile/Spr_Missile.yy",},},},"Disabled":false,"id":"1d5c3b90-ed36-4ca8-90e5-db77a7be5a0f","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
