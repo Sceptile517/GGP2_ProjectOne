@@ -39,6 +39,6 @@ if collision_circle(x, y, 32, Obj_Enemy, false, true)
 if currentHp <= 0
 {	
 	instance_destroy(self)
-	
+	sprite_index = Explosion
 	room_restart()
 }	
