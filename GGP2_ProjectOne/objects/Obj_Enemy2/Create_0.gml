@@ -25,7 +25,7 @@ currentY = y;
 
 lerpPos = 0;
 
-targerBuffer = 64
+targerBuffer = 32
 randomTargetX = random_range(-targerBuffer, targerBuffer)
 randomTargetY = random_range(-targerBuffer, targerBuffer)
 make_health(10); // object health
@@ -39,7 +39,7 @@ knockBackX = 0
 knockBackY = 0
 
 hasHit = false
-knockBackAmount = 25
+knockBackAmount = 15
 
 if y <= 46{ // Y-axis wall up
 	y = 46

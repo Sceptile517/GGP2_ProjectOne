@@ -81,8 +81,8 @@ if firstTimeModeSwitch
 			xStart = x;
 			yStart = y;
 			
-			xEnd = xStart + 150;
-			yEnd = yStart + 150;
+			xEnd = xStart + 120
+			yEnd = yStart + 120
 			
 			startEnd = false
 			lerpPos = 1;
@@ -100,8 +100,8 @@ if firstTimeModeSwitch
 				xStart = x;
 				yStart = y;
 				
-				xEnd = xStart + 150;
-				yEnd = yStart + 150
+				xEnd = xStart + 120
+				yEnd = yStart + 120
 				
 				startEnd = false;
 				lerpPos = 1;
@@ -116,7 +116,7 @@ if firstTimeModeSwitch
 		
 		firstTimeModeSwitch = false;
 	
-if collision_circle(x,y,60,Obj_bullet,false, true)
+if collision_circle(x,y,32,Obj_bullet,false, true)
 	{
 		currentHp -= 1
 		var dbullet = instance_nearest(x,y,Obj_bullet)
@@ -181,7 +181,7 @@ if mode = 2
 		kBStart = true
 		
 	}else{
-		lerpPos += (mode0spd * 3)
+		lerpPos += (mode0spd * 2)
 		x = lerp(kBStartX, knockBackX, lerpPos);
 		y = lerp(kBStartY, knockBackY, lerpPos);
 	}
