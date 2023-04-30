@@ -34,3 +34,4 @@ if x >= 1271 // x-axis wall right
 {
 	x = 1271
 }
+audio_play_sound(gameplay, 1, true);
