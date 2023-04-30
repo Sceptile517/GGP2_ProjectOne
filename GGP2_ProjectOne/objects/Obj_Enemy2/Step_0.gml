@@ -1,4 +1,4 @@
-/*
+
 x =	currentX;
 	y = currentY;
 if instance_exists(Obj_player){	
@@ -133,7 +133,7 @@ if collision_circle(x,y,60,Obj_bullet,false, true)
 		
 
 		
-image_angle = direction
+image_angle = point_direction(x, y, Obj_player.x, Obj_player.y)
 
 //mp_potential_step(Obj_player.x, Obj_player.y, 2, false)
 
@@ -146,10 +146,7 @@ if !hasHit
 	instance_exists(Obj_player)
 		if collision_circle(x,y,32,Obj_player, false, true)
 		{
-			//Obj_player.currentHp -= 1.5 // hero health take away
-			//hasHit = true
-		// = instance_nearest(x,y,Obj_enemy)
-		//hitEnemy.currentHp -= 3;
+			
 			if Obj_player.x > x{
 				knockBackX = x - knockBackAmount
 			}else{
@@ -184,7 +181,7 @@ if mode = 2
 		kBStart = true
 		
 	}else{
-		lerpPos += (mode0spd * 6)
+		lerpPos += (mode0spd * 3)
 		x = lerp(kBStartX, knockBackX, lerpPos);
 		y = lerp(kBStartY, knockBackY, lerpPos);
 	}
@@ -200,22 +197,4 @@ if mode = 2
 		currentY = y
 		mode = 1
 	}
-}
-
-if y <= 46{ // Y-axis wall up
-	y = 46
-}
-if y >= 720 // Y-axis wall down
-{
-	y = 720
-}
-
-if x <= 72 // X-axis wall left
-{
-	x = 72
-}
-
-if x >= 1271 // x-axis wall right
-{
-	x = 1271
 }

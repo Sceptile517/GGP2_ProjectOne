@@ -1,4 +1,4 @@
-/*
+
 image_xscale = 4
 image_yscale = 4
 
@@ -39,4 +39,22 @@ knockBackX = 0
 knockBackY = 0
 
 hasHit = false
-knockBackAmount = 64
+knockBackAmount = 25
+
+if y <= 46{ // Y-axis wall up
+	y = 46
+}
+if y >= 720 // Y-axis wall down
+{
+	y = 720
+}
+
+if x <= 72 // X-axis wall left
+{
+	x = 72
+}
+
+if x >= 1271 // x-axis wall right
+{
+	x = 1271
+}
