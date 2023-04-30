@@ -24,7 +24,7 @@ if !is_dashing and keyboard_check_pressed(dash_key)
 	is_dashing = true
 }
 
-audio_play_sound(truck, 0, false)
+//audio_play_sound(truck, 0, false)
 
 Obj_ShootGun.x = x + sprite_width/400
 Obj_ShootGun.y = y + sprite_height/250
