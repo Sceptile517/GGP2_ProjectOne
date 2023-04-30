@@ -126,8 +126,8 @@ if collision_circle(x,y,32,Obj_bullet,false, true)
 	
 	if currentHp <= 0
 		{
-			sprite_index = Explosion
 			instance_destroy(self)
+			sprite_index = Explosion
 			score += 20
 			
 		}
