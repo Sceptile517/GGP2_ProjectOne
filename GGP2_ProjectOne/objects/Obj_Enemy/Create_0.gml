@@ -36,20 +36,20 @@ make_health(10); // object health
 hasHit = false
 
 
-if y <= 142{ // Y-axis wall up
-	y = 142
+if y <= 95{ // Y-axis wall up
+	y = 95
 }
-if y >= 750 // Y-axis wall down
+if y >= 673 // Y-axis wall down
 {
-	y = 750
-}
-
-if x <= 40 // X-axis wall left
-{
-	x = 40
+	y = 673
 }
 
-if x >= 1321 // x-axis wall right
+if x <= 94 // X-axis wall left
 {
-	x = 1321
+	x = 94
+}
+
+if x >= 1246 // x-axis wall right
+{
+	x = 1246
 }
