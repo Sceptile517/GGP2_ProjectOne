@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_CarOne",
-    "path": "sprites/Spr_CarOne/Spr_CarOne.yy",
+    "name": "NewCar",
+    "path": "sprites/NewCar/NewCar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

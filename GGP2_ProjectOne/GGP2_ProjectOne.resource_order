@@ -29,6 +29,7 @@
     {"name":"Obj_wall2","order":20,"path":"objects/Obj_wall2/Obj_wall2.yy",},
     {"name":"Spr_wall","order":11,"path":"sprites/Spr_wall/Spr_wall.yy",},
     {"name":"Obj_Enemy2","order":21,"path":"objects/Obj_Enemy2/Obj_Enemy2.yy",},
+    {"name":"NewCar","order":31,"path":"sprites/NewCar/NewCar.yy",},
     {"name":"Obj_explosion","order":29,"path":"objects/Obj_explosion/Obj_explosion.yy",},
     {"name":"Spr_CarOne","order":2,"path":"sprites/Spr_CarOne/Spr_CarOne.yy",},
     {"name":"Spr_bullet","order":1,"path":"sprites/Spr_bullet/Spr_bullet.yy",},
