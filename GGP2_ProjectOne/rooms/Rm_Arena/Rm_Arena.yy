@@ -45,7 +45,6 @@
     {"name":"inst_53875301","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_145E0066","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_3946AFDB","path":"rooms/Rm_Arena/Rm_Arena.yy",},
-    {"name":"inst_7659D640","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_9FDD1CD","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_2F45D945","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_4668124E","path":"rooms/Rm_Arena/Rm_Arena.yy",},
@@ -73,11 +72,12 @@
     {"name":"inst_741FAA1A","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_6DE14D4","path":"rooms/Rm_Arena/Rm_Arena.yy",},
     {"name":"inst_28A69E51","path":"rooms/Rm_Arena/Rm_Arena.yy",},
+    {"name":"inst_554273B5","path":"rooms/Rm_Arena/Rm_Arena.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Button","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7659D640","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_quitbutton","path":"objects/Obj_quitbutton/Obj_quitbutton.yy",},"properties":[],"rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":1152.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_554273B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_backMmnueButton","path":"objects/Obj_backMmnueButton/Obj_backMmnueButton.yy",},"properties":[],"rotation":0.0,"scaleX":5.5,"scaleY":4.6,"x":1178.0,"y":36.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_2","assets":[],"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Arena","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[

@@ -56,6 +56,7 @@
     {"name":"Obj_Emp","order":28,"path":"objects/Obj_Emp/Obj_Emp.yy",},
     {"name":"Spr_Missile","order":3,"path":"sprites/Spr_Missile/Spr_Missile.yy",},
     {"name":"Obj_Gate","order":13,"path":"objects/Obj_Gate/Obj_Gate.yy",},
+    {"name":"Obj_backMmnueButton","order":30,"path":"objects/Obj_backMmnueButton/Obj_backMmnueButton.yy",},
     {"name":"titans","order":4,"path":"sounds/titans/titans.yy",},
     {"name":"Spr_Emp","order":28,"path":"sprites/Spr_Emp/Spr_Emp.yy",},
     {"name":"Obj_playbutton","order":24,"path":"objects/Obj_playbutton/Obj_playbutton.yy",},

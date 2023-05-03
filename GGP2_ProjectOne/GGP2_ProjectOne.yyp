@@ -77,6 +77,7 @@
     {"id":{"name":"Obj_Emp","path":"objects/Obj_Emp/Obj_Emp.yy",},},
     {"id":{"name":"Spr_Missile","path":"sprites/Spr_Missile/Spr_Missile.yy",},},
     {"id":{"name":"Obj_Gate","path":"objects/Obj_Gate/Obj_Gate.yy",},},
+    {"id":{"name":"Obj_backMmnueButton","path":"objects/Obj_backMmnueButton/Obj_backMmnueButton.yy",},},
     {"id":{"name":"titans","path":"sounds/titans/titans.yy",},},
     {"id":{"name":"Spr_Emp","path":"sprites/Spr_Emp/Spr_Emp.yy",},},
     {"id":{"name":"Obj_playbutton","path":"objects/Obj_playbutton/Obj_playbutton.yy",},},
