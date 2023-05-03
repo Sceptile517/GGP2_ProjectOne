@@ -115,12 +115,15 @@ if collision_circle(x, y, 60, Obj_bullet, false, true)
 	instance_destroy(dbullet)
 }
 
+
 if currentHp <= 0
-{
-	
+{	
 	instance_destroy(self)
 	score += 10
+	instance_create_layer(x, y, "Arena", Obj_explosion)
 }
+
+	
 
 
 

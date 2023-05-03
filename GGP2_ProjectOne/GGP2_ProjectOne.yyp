@@ -46,6 +46,7 @@
     {"id":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},
     {"id":{"name":"Obj_Enemy2","path":"objects/Obj_Enemy2/Obj_Enemy2.yy",},},
+    {"id":{"name":"Obj_explosion","path":"objects/Obj_explosion/Obj_explosion.yy",},},
     {"id":{"name":"Spr_CarOne","path":"sprites/Spr_CarOne/Spr_CarOne.yy",},},
     {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},},
     {"id":{"name":"Spr_Gate","path":"sprites/Spr_Gate/Spr_Gate.yy",},},
