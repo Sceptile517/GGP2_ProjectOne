@@ -17,21 +17,21 @@ make_health(10);
 healthbar_x = 128;
 healthbar_y = 160; 
 
-if y <= 46{ // Y-axis wall up
-	y = 46
+if y <= 65{ // Y-axis wall up
+	y = 65
 }
-if y >= 720 // Y-axis wall down
+if y >= 702 // Y-axis wall down
 {
-	y = 720
-}
-
-if x <= 72 // X-axis wall left
-{
-	x = 72
+	y = 702
 }
 
-if x >= 1271 // x-axis wall right
+if x <= 62 // X-axis wall left
 {
-	x = 1271
+	x = 62
+}
+
+if x >= 1279 // x-axis wall right
+{
+	x = 1279
 }
 audio_play_sound(gameplay, 1, true);
