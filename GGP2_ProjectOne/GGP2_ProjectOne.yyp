@@ -30,7 +30,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"draw_Health","path":"scripts/draw_Health/draw_Health.yy",},},
@@ -42,6 +42,7 @@
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
     {"id":{"name":"Explosion","path":"sprites/Explosion/Explosion.yy",},},
     {"id":{"name":"EnemyCar2","path":"sprites/EnemyCar2/EnemyCar2.yy",},},
+    {"id":{"name":"Explosion2","path":"sprites/Explosion2/Explosion2.yy",},},
     {"id":{"name":"Obj_Healthbar","path":"objects/Obj_Healthbar/Obj_Healthbar.yy",},},
     {"id":{"name":"Obj_wall2","path":"objects/Obj_wall2/Obj_wall2.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},
@@ -82,6 +83,7 @@
     {"id":{"name":"sHealthbar_border","path":"sprites/sHealthbar_border/sHealthbar_border.yy",},},
     {"id":{"name":"Rm_Arena3","path":"rooms/Rm_Arena3/Rm_Arena3.yy",},},
     {"id":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},},
+    {"id":{"name":"Derby_Logo","path":"sprites/Derby_Logo/Derby_Logo.yy",},},
     {"id":{"name":"Obj_ShootGun","path":"objects/Obj_ShootGun/Obj_ShootGun.yy",},},
     {"id":{"name":"Fnt_menu","path":"fonts/Fnt_menu/Fnt_menu.yy",},},
     {"id":{"name":"RightGun1","path":"sprites/RightGun1/RightGun1.yy",},},
